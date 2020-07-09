@@ -14,9 +14,7 @@
 </p>
 <!-- end banner -->
 
-# Project Title
-
-One Paragraph of project description goes here. This is a template for organization repositories, set your own stuff.
+# RESTful API Docs
 
 ## Getting Started
 
