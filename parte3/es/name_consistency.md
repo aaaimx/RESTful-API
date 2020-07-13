@@ -4,7 +4,7 @@ Existen algunas reglas generales que te ayudaran a manetener tu REST API consist
 
 **Siempre usa el slash (/) para separar las porciones de tus secciones.**
 
-El siguiente caracteristica del slash definira la relación jerárquica de los recursos.
+La siguiente caracteristica del slash definira la relación jerárquica de los recursos.
 
 > http://api.example.com/users/{id}/posts
 
