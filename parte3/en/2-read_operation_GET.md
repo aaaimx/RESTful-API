@@ -1,4 +1,4 @@
- #Read Operation (GET)
+ # Read Operation (GET)
 
 **GET** requests are used **to retrieve resource representation/information only,** not to edit it in any way. 
 As **GET** requests do not change the state of the resource, these requests are known as **safe methods**. Additionally, **GET APIs** should be **idempotent,** which means that making multiple identical requests must produce the same result every time until another API (POST or PUT) has changed the state of the resource on the server.
