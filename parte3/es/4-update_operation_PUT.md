@@ -11,4 +11,5 @@ Las respuestas de este metodo **no son cacheables**
 **Ejemplos**
 
 > HTTP PUT http://www.appdomain.com/users/48848
+
 > HTTP PUT http://www.appdomain.com/users/48848/accounts/2744
