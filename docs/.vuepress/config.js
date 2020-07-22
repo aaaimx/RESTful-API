@@ -71,6 +71,10 @@ module.exports = {
         link: '/methods/'
       },
       {
+        text: 'Avanzado',
+        link: '/advanced/'
+      },
+      {
         text: 'Glosario',
         link: '/glossary/'
       }
@@ -101,9 +105,20 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            '2-resource-structure',
-            '3-resource-naming',
-            '4-name_consistency'
+            '3-create_operation_POST',
+            '4-update_operation_PUT',
+            '5-delete_operation_DELETE',
+          ]
+        }
+      ],
+      '/advanced/': [
+        {
+          title: 'Conceptos Avanzados',
+          collapsable: false,
+          children: [
+            '',
+            '1-pagination',
+            '2-url-design'
           ]
         }
       ]
