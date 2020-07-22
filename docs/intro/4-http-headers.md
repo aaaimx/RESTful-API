@@ -18,4 +18,5 @@ Cache-Control: no-cache
 ```
 La línea de inicio (**start line**) describe el mensaje, lo que significa que el servidor debe responder a una **GET** **request** para el resourse(recurso) **/file.html Host**, **From** y **Cache-Control** son headers de muestra.
 
->Hay más de 60 nombres de headers predeterminados y puede crear cualquier header personalizado utilizando caracteres alfabéticos o numéricos.
+:::tip
+Hay más de 60 nombres de headers predeterminados y puede crear cualquier header personalizado utilizando caracteres alfabéticos o numéricos.

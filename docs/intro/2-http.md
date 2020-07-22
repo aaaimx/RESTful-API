@@ -11,4 +11,5 @@ HTTP es un **protocolo** **sin** **estado**, lo que significa que el servidor no
 
 **Los** **mensajes** **HTTP** son los bloques de datos enviados entre las aplicaciones HTTP. Cada mensaje contiene una solicitud de un cliente o una respuesta de un servidor. Se componen de tres partes: una **línea** **de** **inicio** que describe el mensaje, un bloque de **headers** que contienen atributos y un **body** opcional que contiene datos.
 
->Probablemente haya encontrado códigos de respuesta de estado HTTP como 404 (Not Found) o 500 (Internal Server Error).
+:::warning NOTA
+ Probablemente haya encontrado códigos de respuesta de estado HTTP como 404 (Not Found) o 500 (Internal Server Error).

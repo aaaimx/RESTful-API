@@ -60,4 +60,5 @@ Veamos cómo se verían los mismos datos del ejemplo anterior pero ahora en XML.
 
 Como puede ver, JSON es claramente mejor en términos de legibilidad y longitud.
 
->JSON requiere el uso de comillas dobles y nombres de propiedades: las comillas simples no son válidas. Recuerde, JSON es solo formato de datos. Muchos lenguajes de programación admiten el análisis y el uso de JSON.
+:::tip
+JSON requiere el uso de comillas dobles y nombres de propiedades: las comillas simples no son válidas. Recuerde, JSON es solo formato de datos. Muchos lenguajes de programación admiten el análisis y el uso de JSON.
