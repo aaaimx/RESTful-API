@@ -4,12 +4,12 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'DISOFTW',
+  title: 'RESTful API',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  base: '/repo/',
+  base: '/RESTful-API/',
 
   /**
    * AntDocs theme for AntDesign for vue
