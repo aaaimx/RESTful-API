@@ -63,6 +63,14 @@ module.exports = {
         link: '/intro/'
       },
       {
+        text: 'REST',
+        link: '/rest/'
+      },
+      {
+        text: 'Métodos',
+        link: '/methods/'
+      },
+      {
         text: 'Glosario',
         link: '/glossary/'
       }
@@ -73,6 +81,30 @@ module.exports = {
           title: 'Intro',
           collapsable: false,
           children: ['', '2-http', '3-json', '4-http-headers']
+        }
+      ],
+      '/rest/': [
+        {
+          title: 'REST',
+          collapsable: false,
+          children: [
+            '',
+            '2-resource-structure',
+            '3-resource-naming',
+            '4-name_consistency'
+          ]
+        }
+      ],
+      '/methods/': [
+        {
+          title: 'Métodos',
+          collapsable: false,
+          children: [
+            '',
+            '2-resource-structure',
+            '3-resource-naming',
+            '4-name_consistency'
+          ]
         }
       ]
     }
